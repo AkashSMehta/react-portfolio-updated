@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-updated/static/css/main.014fffd9.css",
+    "main.js": "/react-portfolio-updated/static/js/main.45f18182.js",
+    "static/media/image.jpg": "/react-portfolio-updated/static/media/image.dfdd57f6b434fae3e6eb.jpg",
+    "static/media/portfolio4.PNG": "/react-portfolio-updated/static/media/portfolio4.dd394bee94ff85283b69.PNG",
+    "static/media/portfolio6.PNG": "/react-portfolio-updated/static/media/portfolio6.50791b17737bdbebdf48.PNG",
+    "static/media/portfolio5.PNG": "/react-portfolio-updated/static/media/portfolio5.db19ea3163d789104296.PNG",
+    "static/media/portfolio1.PNG": "/react-portfolio-updated/static/media/portfolio1.1b52d2ed7d62c49d5c65.PNG",
+    "static/media/portfolio3.PNG": "/react-portfolio-updated/static/media/portfolio3.166990259eef6ecfe595.PNG",
+    "static/media/portfolio2.PNG": "/react-portfolio-updated/static/media/portfolio2.83283a0e670d447d3136.PNG",
+    "static/media/github-icon.png": "/react-portfolio-updated/static/media/github-icon.a5527b5c02e754fc4a6d.png",
+    "static/media/ui-design.png": "/react-portfolio-updated/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/linkedin-icon.webp": "/react-portfolio-updated/static/media/linkedin-icon.d65c817fb6cf15895db0.webp",
+    "index.html": "/react-portfolio-updated/index.html",
+    "main.014fffd9.css.map": "/react-portfolio-updated/static/css/main.014fffd9.css.map",
+    "main.45f18182.js.map": "/react-portfolio-updated/static/js/main.45f18182.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.014fffd9.css",
+    "static/js/main.45f18182.js"
+  ]
+}
